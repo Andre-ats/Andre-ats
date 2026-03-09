@@ -1,5 +1,3 @@
-# 👋 Sou o André
-
 💻 Full Stack Developer (React & .NET)  
 🎓 Ciência da Computação -> FEI  
 
