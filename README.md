@@ -1,7 +1,8 @@
 # 👋 Hi, I'm André
 
-💻 Full Stack Developer(React & .NET)
-🎓 Computer Science Student at FEI
+💻 Full Stack Developer  
+🎓 Computer Science Student at FEI  
+🚀 Focused on building web applications with React and .NET
 
 ---
 
@@ -10,13 +11,14 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-20232A?style=for-the-badge&logo=.net)
-![EntityFramework](https://img.shields.io/badge/Entity%20Framework-20232A?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-20232A?style=for-the-badge)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
