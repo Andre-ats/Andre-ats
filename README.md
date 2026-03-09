@@ -10,7 +10,6 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css)
 
@@ -26,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-ats&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-ats&layout=compact&theme=dark)
 
 ---
 
