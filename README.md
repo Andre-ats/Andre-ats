@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm André
 
-<!--
-**Andre-ats/Andre-ats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer(React & .NET)
+🎓 Computer Science Student at FEI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-20232A?style=for-the-badge&logo=.net)
+![EntityFramework](https://img.shields.io/badge/Entity%20Framework-20232A?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
+
+---
+
+## 📊 GitHub Stats
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Alves-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-ats01/)
