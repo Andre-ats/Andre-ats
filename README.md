@@ -1,11 +1,11 @@
-# 👋 Hi, I'm André
+# 👋 Sou o André
 
-💻 Full Stack Developer(React & .NET)  
-🎓 Computer Science Student at FEI  
+💻 Full Stack Developer (React & .NET)  
+🎓 Ciência da Computação -> FEI  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tecnologias
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,6 +23,6 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Alves-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-ats01/)
